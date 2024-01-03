@@ -11,7 +11,7 @@ const CardDeal = () => {
           in few easy steps.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5 `}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse dicta eveniet nostrum voluptatibus earum maxime reiciendis suscipit dolore commodi, rem voluptatum error blanditiis ullam totam consequuntur neque, quidem optio.Quis enim 
+        Automated invoicing tools simplify the billing process, reducing errors and saving time. Detailed invoices enhance transparency, providing clients with a clear breakdown of services rendered and associated costs.
       <Button styles='mt-10'/>
         </p>
       </div>
